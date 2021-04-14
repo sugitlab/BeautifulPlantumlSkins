@@ -1,4 +1,4 @@
-# Bridge PlantUML
+# Beautiful PlantUML
 
-PlantUML style files for Bridge Project
+PlantUML style files
 
